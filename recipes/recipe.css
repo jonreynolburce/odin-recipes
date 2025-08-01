@@ -1,0 +1,91 @@
+* {
+    font-family: serif;
+    background-color:beige;
+    margin: auto;
+    max-width: 1000px;
+    padding: 10px;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+.Adobo .Bicol .Caldereta {
+    text-align: center;
+}
+
+.Adobo {
+    margin: 30px;
+    padding: 20px;
+}
+
+.Bicol {
+    margin: 30px;
+    padding: 20px;
+}
+
+.Caldereta {
+    margin: 30px;
+    padding: 20px;
+}
+
+.home {
+    font-size: larger;
+}
+
+.chick-adobo  {
+    font-style: italic;
+}
+
+.caldereta {
+    font-style: italic;
+}
+
+.bicol-express {
+    font-style: italic;
+}
+img {
+    display: block;
+    border-radius: 30px;
+}
+
+h3 {
+    
+    text-align: center;
+    font-style: italic;
+    font-family: serif;
+    font-weight: 100; 
+}
+
+.ingre-section .direction-section {
+    flex: 1; 
+}
+
+.title-ingre {
+    font-size: 20px;
+    color:rgb(31, 29, 29);
+    margin-bottom: 15px;
+    padding-bottom: 8px;
+    border-bottom: 3px solid rgb(143, 84, 42);
+}
+
+.ingre {
+    list-style:disc;
+    padding-left: 20px;
+}
+
+.title-direct {
+    font-size: 20px;
+    color: rgb(31, 29, 29);
+    margin-bottom: 20px;
+    padding-bottom: 8px;
+    border-bottom: 3px solid rgb(143, 84, 42);
+}
+
+.directions {
+    padding-left: 20px;
+    padding: 20px;
+}
+
+
